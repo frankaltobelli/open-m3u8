@@ -205,4 +205,14 @@ public class PlaylistParserWriterTest {
                 "http://media.example.com/first.ts\n" +
                 "#EXT-X-ENDLIST\n", writePlaylist(playlist));
     }
+
+    @Test
+    public void adsWhizPlaylist() throws IOException, ParseException, PlaylistException {
+        Playlist playlist = readPlaylist("adsWhizPlaylist.m3u8");
+
+        String sPlaylist = writePlaylist(playlist);
+
+        System.out.println(sPlaylist);
+    }
+
 }
