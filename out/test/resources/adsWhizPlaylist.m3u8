@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-DISCONTINUITY
+#EXTINF:10,title="text=\"Spot Block End\" amgTrackId=\"9876543\"",artist=" ",url="length=\"00:00:00\""
+http://cdn-chunks.prod.ihrhls.com/1713/3K1H0jbjGG8p-154869648-10031.aac
+#EXTINF:10,title="text=\"Spot Block End\" amgTrackId=\"9876543\"",artist=" ",url="length=\"00:00:00\""
+http://cdn-chunks.prod.ihrhls.com/1713/d5ytOrfL7oap-154869649-9984.aac
+#EXTINF:10,title="text=\"Spot Block End\" amgTrackId=\"9876543\"",artist=" ",url="length=\"00:00:00\""
+http://cdn-chunks.prod.ihrhls.com/1713/l0HVbj6xK8Qp-154869650-9984.aac
